@@ -1,0 +1,14 @@
+._ics_container {
+    overflow: hidden;
+    display: flex;
+}
+._ics_columnFlexDirection {
+    flex-direction: column;
+}
+._ics_reverseColumnFlexDirection {
+    flex-direction: column-reverse;
+}
+.red {
+    color: red;
+    font-size: 20px;
+}
