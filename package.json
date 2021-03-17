@@ -1,7 +1,12 @@
 {
     "name": "react-counter-animation",
     "version": "0.1.0",
-    "description": "",
+    "description": "React counter animation",
+    "author": {
+        "name": "Irmak coşar Şahna",
+        "email": "irmakcosarsahna@gmail.com",
+        "url": "https://www.irmakcosarsahna.com"
+    },
     "main": "./src/index.js",
     "license": "MIT",
     "scripts": {
